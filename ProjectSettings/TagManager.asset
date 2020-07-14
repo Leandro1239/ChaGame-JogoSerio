@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - Barreira
+  - BarracaBoa
+  - BarracaRuim
+  - AcaiBom
+  - AcaiRuim
+  - Cidadao
+  - Pessoa
+  - VoltaBarbeiro
+  - Inimigo
+  - Vida
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "Ch\xE3o"
+  - MiniMapa
+  - Player
+  - Cidadao
+  - Inimigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3215833833
+    locked: 0
+  - name: MidGround
+    uniqueID: 710676225
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4212686515
+    locked: 0
+  - name: Interact
+    uniqueID: 979917285
+    locked: 0
+  - name: UI
+    uniqueID: 4055837241
+    locked: 0
+  - name: FrontGround
+    uniqueID: 3542037311
+    locked: 0
